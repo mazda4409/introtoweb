@@ -1,0 +1,127 @@
+
+	
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Carroll's Restaurant</title>
+		<link href="RestaurantStyles.css" rel="stylesheet" type="text/css" />
+		<link rel="stylesheet"
+	href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah"> 
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<noscript>
+		<div class="alert alert-warning">
+		This site is best viewed with Javascript enabled.
+		</div>
+	</noscript>
+</head>
+	<style>a:hover {
+color: #FF5733; /* chay33 by annapashmina â€“ colourlovers.com */}
+a:hover {font-weight: bold;}
+table, th, td {
+border: 1px solid black; 
+border-collapse: collapse;
+padding: 5px 0px 5px 10px;}
+td {text-align: center}
+tbody tr:nth-child(even) {background-color: #F2D7D5;}
+tbody tr:nth-child(odd) {background-color: #E5E8E8;}</style>
+		<h1> Carroll's Restaurant</h1>
+<hr>
+<ul class="nav nav-pills">
+
+  <li><a href="carrollRestuarantHome.html"><span class="glyphicon glyphicon-home"></span></a></li>
+<li class="active"><a href="carrollMenu.html">Menu</a></li>
+  <li><a href="contactUs.html">Contact Us</a></li>
+ 
+</ul>
+<hr>
+	<div id="menu elements">
+	<dl>
+	<dt><h2>Burger and Fries</h2></dt>
+	<dt>An American Classic</dt>
+	<dt>Your choice - with or without cheese</dt>
+	<dt>Pickle,onion,tomato, and lettuce</dt>
+	<dt>Served with our famous thick cut</dt>
+	<dt>french fries</dt>
+	<dt>$7.95</dt>
+	</dl>
+	<dl>
+	<dt><h2>Hot Dog and Chips</h2></dt>
+	<dt>An Summer Classic!</dt>
+	<dt>Your choice - white or wheat bun</dt>
+	<dt>Relish, mustard, and ketchup</dt>
+	<dt>Served with our house-made chips</dt>
+	<dt>$7.95</dt>
+	</dl>
+	<dl>
+	<dt><h2>Italian Sausage and Peppers</h2></dt>
+	<dt>An All-Time Favorite!!</dt>
+	<dt>Your choice - mild or spicy</dt>
+	<dt>Cole Slaw</dt>
+	<dt>Served with garlic mashers</dt>
+	<dt>$10.95</dt>
+	</dl>
+	<dl>
+	<dt><h2>Tenderloin Sandwich and Chips</h2></dt>
+	<dt>Really Hits the Spot!</dt>
+	<dt>Plain or Sesame Seed Bun</dt>
+	<dt>Pickle, onion,tomato, and lettuce</dt>
+	<dt>Served with our house-made chips</dt>
+	<dt>$8.95</dt>
+	</dl>
+	<dl>
+	<dt><h2>House Salad</dt></h2>
+	<dt>On the Lighter Side</dt>
+	<dt>Your choice - with or without cheese</dt>
+	<dt>Iceberg lettuce, tomatoes, peppers</dt>
+	<dt>Thousand Island or Ranch Dressing</dt>
+	<dt>Served with a dinner roll</dt>
+	<dt>$6.95</dt>
+	</dl>
+	<dl>
+	<dt><h2>Brisket Sandwich and Fries</h2><dt>
+	<dt>A Taste of Texas!</dt>
+	<dt>Smoked Brisket on thick-cut Texas</dt>
+	<dt>Toast</dt>
+	<dt>Cole Slaw</dt>
+	<dt>Served with our famous thick-cut</dt>
+	<dt>french fries</dt>
+	<dt>$7.95</dt>
+	</dl>
+	<dt><h2>Beverages</h2><dt>
+	<table>
+	<thead>
+	<tr>
+	<th>Drink</th>
+	<th>Price ($USD)</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+	<td>Root Beer</td>
+	<td>$3.00</td>
+	</tr>
+	<tr>
+	<td>Bottled Water</td>
+	<td>$1.25</td>
+	</tr>
+	<tr>
+	<td>Lemonade</td>
+	<td>$1.00</td>
+	</tr>
+	<tr>
+	<td>Iced Tea</td>
+	<td>$1.25</td>
+	</tr>
+	</tbody>
+	</table>
+	</div>
+	
+	
+<hr>
+<footer><p>7109 Greenville Ave., Dallas, TX,  75219</p>
+<p>214-741-2232</p>
+</footer>
+</body>
+</html>
